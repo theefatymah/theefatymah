@@ -1,15 +1,14 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Mah Noor Fatima</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theefatymah&label=Profile%20views&color=0e75b6&style=flat" alt="theefatymah" /> </p>
 
-- 🔭 I’m currently working on **Front End Projects**
+Here are some ideas to get you started:
 
-- 🌱 I’m currently learning **Full Stack Javascript**
-
-- 👯 I’m looking to collaborate on **Frontend Developers as well as Javascript Developers**
+- 🔭 I’m currently working on MERN
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on Hackathons
 
 - 📫 How to reach me **theefatymah@gmail.com**
 
@@ -28,14 +27,11 @@
 
 **theefatymah/theefatymah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+<!-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  -->
 
