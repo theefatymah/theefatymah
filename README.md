@@ -57,7 +57,6 @@
 ---
 <p align="center">
  ⭐ If you like my work, consider giving my repositories a star! ⭐
- 
   Thanks for visiting my GitHub! Looking forward to building awesome things together. 😎
 </p>
 
