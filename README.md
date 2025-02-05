@@ -44,12 +44,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=theefatymah&show_icons=true&theme=default&bg_color=FFFFFF&title_color=000000&icon_color=2E8B57" alt="GitHub Stats" />
 </p>
 
-<!--
+--
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=theefatymah&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=theefatymah&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
--->
+
 ---
 <h3 align="center">💡 Fun Fact</h3>
 <p align="center">🎵 I love listening to music while coding! 🎧</p>
