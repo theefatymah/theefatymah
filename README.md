@@ -53,5 +53,5 @@
 <p align="center">🎵 I love listening to music while coding! 🎧</p>
 
 ---
-<p align="center">⭐ **If you like my work, consider giving my repositories a star!** ⭐</p>
+<p align="center">⭐ If you like my work, consider giving my repositories a star! ⭐</p>
 
