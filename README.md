@@ -38,11 +38,14 @@
 
 ---
 <h3 align="center">🔥 GitHub Stats</h3>
-<p align="center">
+
+
+ <p align="center">
   <a href="https://github.com/theefatymah">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=theefatymah&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theefatymah&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -53,5 +56,6 @@
 <p align="center">🎵 I love listening to music while coding! 🎧</p>
 
 ---
-<p align="center">⭐ If you like my work, consider giving my repositories a star! ⭐</p>
+<p align="center">⭐ **If you like my work, consider giving my repositories a star!** ⭐</p>
+
 
