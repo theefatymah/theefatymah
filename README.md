@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://github.com/theefatymah">
-    <img src="https://streak-stats.demolab.com?user=theefatymah&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
+    <img src="https://streak-stats.demolab.com?user=theefatymah&theme=dark" alt="GitHub Streak Stats"/>
   </a>
 </p>
 
