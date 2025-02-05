@@ -40,6 +40,12 @@
 <h3 align="center">🔥 GitHub Stats</h3>
 
 
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=theefatymah&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theefatymah&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<!--
  <p align="center">
   <a href="https://github.com/theefatymah">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=theefatymah&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
@@ -50,7 +56,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theefatymah&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
+-->
 ---
 <h3 align="center">💡 Fun Fact</h3>
 <p align="center">🎵 I love listening to music while coding! 🎧</p>
