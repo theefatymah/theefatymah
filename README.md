@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on MERN
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Hackathons
-
 - 📫 How to reach me **theefatymah@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
