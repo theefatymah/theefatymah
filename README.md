@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=theefatymah&label=Profile%20views&color=0e75b6&style=flat" alt="theefatymah" /> </p>
 
-<bold>Here are some ideas to get you started:</bold>
+<h3>Here are some ideas to get you started:</h3>
 
 - 🔭 I’m currently working on MERN
 - 🌱 I’m currently learning Python
