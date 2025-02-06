@@ -39,7 +39,7 @@
 ---
 <h3 align="center">🔥 GitHub Stats</h3>
 
-<p align="center" style="display: flex; justify-content: center; gap: 20 px;">
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=theefatymah&theme=default&hide_border=true&background=FFFFFF&ring=2E8B57&fire=2E8B57&currStreakLabel=000000" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=theefatymah&show_icons=true&theme=default&bg_color=FFFFFF&title_color=000000&icon_color=2E8B57" alt="GitHub Stats" />
 </p>
